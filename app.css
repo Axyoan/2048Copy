@@ -25,38 +25,38 @@
 }
 
 .val-2 {
-    background-color: #D9ED92;
+    background-color: #D4EBFF;
 }
 .val-4 {
-    background-color: #B5E48C;
+    background-color: #6A96FF;
 }
 .val-8 {
-    background-color: #99D98C;
+    background-color: #0040FF;
 }
 .val-16 {
-    background-color: #76C893;
+    background-color: #D4FFE2;
 }
 .val-32 {
-    background-color: #52B69A;
+    background-color: #6ACE8D;
 }
 .val-64 {
-    background-color: #34A0A4;
+    background-color: #009D37;
 }
 .val-128 {
-    background-color: #168AAD;
+    background-color: #FFD4D4;
 }
 .val-256 {
-    background-color: #1A759F;
+    background-color: #CF6A6A;
 }
 .val-512 {
-    background-color: #1E6091;
+    background-color: #9E0000;
 }
 
 .val-1024 {
-    background-color: #1B5784;
+    background-color: #CFBC6A;
 }
 .val-2048 {
-    background-color: #184E77;
+    background-color: #9E8600;
 }
 @media (min-width: 900px){
     .col{
