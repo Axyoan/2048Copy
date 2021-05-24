@@ -251,12 +251,12 @@ resetBtn.addEventListener("click", (e) => {
 
 
 let testBoard = () => {
-    /* board = [
+    board = [
         [2, 0, 0, 0],
         [2, 0, 0, 0],
         [2, 0, 0, 0],
         [2, 0, 0, 0],
-    ] */
+    ]
     board = [
         [16, 4, 2, 0],
         [0, 0, 0, 0],
